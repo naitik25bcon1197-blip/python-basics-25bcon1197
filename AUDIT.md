@@ -1,8 +1,8 @@
 # AUDIT.md — HW-05 Repository Audit
 
-**Repository:** `python-basics-25BCON1079`  
-**Roll number:** `25BCON1079`  
-**Student:** Shreyansh
+**Repository:** `python-basics-25BCON1197`  
+**Roll number:** `25BCON1197`  
+**Student:** Naitik Vijay
 
 ## 1. Repository contents audit
 
@@ -102,7 +102,7 @@ The session requires a peer to:
 
 ### Partner review notes
 
-**Partner name:** Prankush Sharma
+**Partner name:** Tushar 
 
 **Claim 1 checked:** The repository currently shows six Python programs in the file list.
 
